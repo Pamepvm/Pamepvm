@@ -1,5 +1,3 @@
-¡Bienvenidos a mi portafolio! 
-Aquí encontrarán una muestra representativa de mis trabajos más recientes como diseñadora gráfica.
 
 ¡Bienvenidos a mi portafolio! Aquí encontrarán una muestra representativa de mis trabajos más recientes como diseñadora gráfica. Soy una profesional apasionada por la creación de nuevas ideas y siempre he tenido una constante inquietud por contribuir y dejar mi marca en la sociedad.
 
