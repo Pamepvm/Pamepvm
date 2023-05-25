@@ -90,6 +90,34 @@
 .carousel-weston-middle {
   top: 35%;
 }
+.carousel-control-prev,
+.carousel-control-next {
+  width: auto;
+  padding: 0;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  position: absolute;
+  top: 50%;
+  z-index: 5;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(40, 15, 165);
+  transform: translateY(-50%);
+}
+
+.carousel-control-prev-icon {
+  left: 0;
+  margin-left: -30px;
+}
+
+.carousel-control-next-icon {
+  right: 0;
+  margin-right: -30px;
+}
+
 /* MEDIA QUERIES */
 @media screen and (max-width: 375px) {
   .vh-50 {
